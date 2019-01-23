@@ -48,6 +48,10 @@ A song I wrote about an overconfident boxer who dies in the ring.
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.21.45.png" alt="alt text" width="60%" height="50%"></p>
 
+Q-Tip - Scenario 
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2011.28.16.png" alt="alt text" width="60%" height="50%"></p>
+
 Nas - N.Y. State of mind
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.30.59.png" alt="alt text" width="60%" height="50%"></p>
