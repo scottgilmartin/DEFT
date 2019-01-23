@@ -22,7 +22,7 @@ The consonant space is constructed based on the IPA consonant chart which can be
 For example, B and D are closer together than B and F, but not as close as B and P or D and T. 
 
 # Caveats
-The code in its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection.
+The code in its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection. It also simply looks for any two syllables that rhyme, even if 'insignificant' fractions of words - a more sophisticated version which considers syllable counts and stress patterns is planned.
 In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but chunk A does not rhyme with chunk C, one of the rhymes may be assigned an unrepresentative color.
 The code is also not equipped to recognize the position of a word in a line.
 
