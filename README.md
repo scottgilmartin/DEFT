@@ -44,6 +44,8 @@ Nas - Halftime
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2011.47.31.png" alt="alt text" width="60%" height="50%"></p>
 
+Input string:
+
 <p align="center">
 "i used to hustle now all I do is relax and strive
 when i was young i was a fan of the jackson five"
