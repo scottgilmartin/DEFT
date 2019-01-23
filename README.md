@@ -11,7 +11,7 @@ and here: https://www.litcharts.com/literary-devices-and-terms/slant-rhyme
 To learn about the characteristics of rhymes, and the media which employs them. Potential applications include analysing and generating rhyme schemes automatically, visulization of song structure and phonetic sounds (i.e. simulating synesthesia), measuring the rhyme and alliteration density of a given lyric or poem, and looking at the particular rhyming style of an artist. The same principles can also be applied to study phonetic properties of accents and language itself.
 
 # How does it work?
-Lyrics are split into phonetic components (phones), and split into two types of groups; groups of consonants which appear before a vowel, and chunks which consist of a vowel and the consonants which appear after it. Every syllable (vowel) is accounted for by grouping it with two groups of consonants this way, for example the phrase "relax and strive" would become [R][IH][L] [L][AE][K,S] [AH][N,D] [S,T,R][AY][V], where every vowel is preceeded by the group of consonants that appear before it and followed by the group of consonants which appear after it. Compare "five" ([F][AY][V]) to "strive" ([S,T,R][AY][V]) and we can easily see that they rhyme since the vowel [AY] and consonant group after the vowel [V] are identical. We can see that the words do not perfectly alliterate since the consonant groups before the vowel [S,T,R] and [F] are different. 
+Lyrics are split into phonetic components (phones), and split into two types of groups; groups of consonants which appear before a vowel, and chunks which consist of a vowel and the consonants which appear after it. Every syllable (vowel) is accounted for by grouping it with two groups of consonants this way, for example the phrase "relax and strive" would become [R][IH][L] [L][AE][K,S] [AH][N,D] [S,T,R][AY][V], where every vowel is preceeded by the group of consonants that appear before it and followed by the group of consonants which appear after it. Compare "five" ([F][AY][V]) to "strive" ([S,T,R][AY][V]) and we can easily see that they rhyme since the vowel [AY] and consonant group after the vowel [V] are identical. We can see that the words do not perfectly alliterate since the consonant groups before the vowel [S,T,R] and [F] are different. (The advatnage of this approach is that it allows us to detect multi-syllabic rhymes - see examples below.)
 
 The idea is to quantify how much a given pair of ([consonants_bv][vowel][consonants_av]) rhyme and alliterate by giving each vowel phone and each consonant phone a coordinate in a vowel/ consonant space and then measuring the distance between these coordinates. We can also assign each vowel a color by making the vowel space act doubly as an RGB color space. A logical choice for a vowel space is to follow a standard vowel diagram, which depicts where the toungue lies in the mouth when pronouncing each vowel. https://en.wikipedia.org/wiki/Vowel_diagram Here we simply assume that the closer the tongue when pronouncing two vowels, the closer they must sound, and therefore the closer they should be in the vowel space. The following vowel space was constructed for this project:
 
@@ -38,10 +38,16 @@ Yeats uses heavily slanted rhymes in this poem - rhyming 'on' with 'moon' and 'g
 Nas - Halftime
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.37.49.png" alt="alt text" width="60%" height="50%"></p>
+Here we see a multi-syllabic perfect rhyme in "relax and strive" and "jackson five". The distance between each vowel syllable is 0 and the consonance is identical in each consonant group following a vowel.
 
 Nas - Halftime
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2011.47.31.png" alt="alt text" width="60%" height="50%"></p>
+
+"i used to hustle now all I do is relax and strive
+when i was young i was a fan of the jackson five"
+
+The above multi-syllabic rhyme in the context of the song.
 
 Q-Tip - Scenario 
 <p align="center">
