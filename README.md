@@ -32,10 +32,7 @@ Sty (https://github.com/feluxe/sty) is then used to highlight each chunk (that i
 
 # Caveats and future work
 The code currently serves as a proof of concept for measuring and quantifying slant rhymes, and will act as a foundation to build a more robust rhyme scheme detector.
-In its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection. It also simply looks for any two syllables that rhyme, even if 'insignificant' fractions of words (for example about and subliminal are detected just because the first syllable of each rhymes)  - a more sophisticated version which considers syllable counts and stress patterns is planned.
-In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but chunk A does not rhyme with chunk C, one of the rhymes may be assigned an unrepresentative color.
-The code does not currently take into account the position of a word in a line.
-Rhyme highlighting should be more intense for high rhyme scores and less intense for low rhyme scores - this should make the main rhyme scheme more pronounced, while preserving the secondary rhyme schemes.
+In its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection. It also simply looks for any two syllables that rhyme, even if 'insignificant' fractions of words (for example about and subliminal are detected just because the first syllable of each rhymes)  - a more sophisticated version which considers syllable counts and stress patterns is planned. Additionally the code does not currently take into account the position of a word in a line and score based rhyme highlighting should be implemented - highlights should be more intense for high rhyme scores and less intense for low rhyme scores - this should make the main rhyme scheme more pronounced, while preserving the secondary rhyme schemes.
 
 # Examples
 Y.B. Yeats - Lines written in Dejection
