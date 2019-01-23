@@ -18,9 +18,31 @@ The idea is to quantify how much a given pair of ([consonants_bv][vowel][consona
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/vowel_chart_image.png" alt="alt text" width="60%" height="50%"></p>
 
+The consonant space is constructed based on the IPA consonant chart which can be found here: https://home.cc.umanitoba.ca/~krussll/phonetics/ipa/ipa-consonants.html
+For example, B and D are closer together than B and F, but not as close as B and P or D and T. 
+
 # Caveats
 The code in its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection.
 In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but chunk A does not rhyme with chunk C, one of the rhymes may be assigned an unrepresentative color.
 The code is also not equipped to recognize the position of a word in a line.
 
 # Examples
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.37.49.png" alt="alt text" width="60%" height="50%"></p>
+
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.35.02.png" alt="alt text" width="60%" height="50%"></p>
+
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.14.44.png" alt="alt text" width="60%" height="50%"></p>
+
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.21.45.png" alt="alt text" width="60%" height="50%"></p>
+
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.30.59.png" alt="alt text" width="60%" height="50%"></p>
+
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.56.16.png" alt="alt text" width="60%" height="50%"></p>
+
+
