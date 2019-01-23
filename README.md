@@ -4,7 +4,7 @@ using the CMU Pronouncing Dictionary (part of the nltk libraries) to convert wor
 represented by the ARPAbet symbols found here: http://www.speech.cs.cmu.edu/cgi-bin/cmudict 
 and here: https://en.wikipedia.org/wiki/ARPABET
 
-Information about different types of rhymes can be found here: https://en.wikipedia.org/wiki/Perfect_and_imperfect_rhymes 
+Information about different types of rhymes and various examples can be found here: https://en.wikipedia.org/wiki/Perfect_and_imperfect_rhymes 
 and here: https://www.litcharts.com/literary-devices-and-terms/slant-rhyme
 
 # Why?
