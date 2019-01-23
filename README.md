@@ -28,9 +28,12 @@ In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but c
 The code does not currently take into account the position of a word in a line.
 
 # Examples
-Y.B. Yeats
+Y.B. Yeats - Lines written in Dejection
+
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.56.16.png" alt="alt text" width="60%" height="50%"></p>
+
+Yeats uses heavily slanted rhymes in this poem - rhyming 'on' with 'moon' and 'gone' with 'sun'. For the first example we show the output when we measure how much 'on' and 'moon' rhyme. Here the first number after the vowels (6.32...) represents the distance in the vowel space from one vowel to the other. On the vowel space above we find AA on the bottom right corner and UW on the top right (and further along the z-axis). The following number (3) represents the similarity in consonants following the vowel. Here they are both followed by the same consonant 'N' - and this perfect consonance is what allows the words to 'rhyme' despite the vowels being far apart in the vowel space.
 
 Nas - Halftime
 <p align="center">
