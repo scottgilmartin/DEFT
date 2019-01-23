@@ -46,7 +46,7 @@ Yeats uses heavily slanted rhymes in this poem - rhyming 'on' with 'moon' and 'g
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.37.49.png" alt="alt text" width="60%" height="50%"></p>
 
-Here we see a multi-syllabic perfect rhyme in "relax and strive" and "jackson five". The distance between each vowel syllable is 0 and the consonance is identical in each consonant group following a vowel. Notice that each rhyme is higlighted according to it's position in the vowel space, allowing us to see the phonetic content without reading the words.
+Here we see a multi-syllabic perfect rhyme in "relax and strive" and "jackson five". The distance between each vowel syllable is 0 and the consonance is identical in each consonant group following a vowel. Notice that each rhyme is higlighted according to it's position in the vowel space, allowing us to see the phonetic content without reading the words. Here the "ax" in relax rhyming with the "acks" in Jackson are in yellow, the "and" and "son" from Jackson are in green, and the "ive" from strive and "ive" from five are in brown.
 
 Nas - Halftime
 <p align="center">
