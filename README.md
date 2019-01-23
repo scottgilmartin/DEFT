@@ -43,7 +43,7 @@ Mike G - Oldie
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.14.44.png" alt="alt text" width="60%" height="50%"></p>
 
-From a song I wrote about an overconfident boxer who dies in the ring.
+A song I wrote about an overconfident boxer who dies in the ring.
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.21.45.png" alt="alt text" width="60%" height="50%"></p>
 
