@@ -27,22 +27,28 @@ In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but c
 The code is also not equipped to recognize the position of a word in a line.
 
 # Examples
+Y.B. Yeats
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.56.16.png" alt="alt text" width="60%" height="50%"></p>
+
+Nas - Halftime
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.37.49.png" alt="alt text" width="60%" height="50%"></p>
 
+Nas - Halftime
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.35.02.png" alt="alt text" width="60%" height="50%"></p>
 
+Mike G - Oldie
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.14.44.png" alt="alt text" width="60%" height="50%"></p>
 
+From a song I wrote about an overconfident boxer who dies in the ring.
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.21.45.png" alt="alt text" width="60%" height="50%"></p>
 
+Nas - N.Y. State of mind
 <p align="center">
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.30.59.png" alt="alt text" width="60%" height="50%"></p>
-
-<p align="center">
-<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.56.16.png" alt="alt text" width="60%" height="50%"></p>
 
 
