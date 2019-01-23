@@ -15,6 +15,9 @@ Lyrics are split into phonetic components (phones), and split into two types of 
 
 The idea is to quantify how much a given pair of ([consonants_bv][vowel][consonants_av]) rhyme and alliterate by giving each vowel phone and each consonant phone a coordinate in a vowel/ consonant space and then measuring the distance between these coordinates. We can also assign each vowel a color by making the vowel space act doubly as an RGB color space. A logical choice for a vowel space is to follow a standard vowel diagram, which depicts where the toungue lies in the mouth when pronouncing each vowel. https://en.wikipedia.org/wiki/Vowel_diagram Here we simply assume that the closer the tongue when pronouncing two vowels, the closer they must sound, and therefore the closer they should be in the vowel space. The following vowel space was constructed for this project:
 
+<p align="center">
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/vowel_chart_image.png" alt="alt text" width="60%" height="50%"></p>
+
 # Caveats
 The code in its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection.
 In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but chunk A does not rhyme with chunk C, one of the rhymes may be assigned an unrepresentative color.
