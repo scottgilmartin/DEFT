@@ -21,6 +21,9 @@ The idea is to quantify how much a given pair of ([consonants_bv][vowel][consona
 The consonant space is constructed based on the IPA consonant chart which can be found here: https://home.cc.umanitoba.ca/~krussll/phonetics/ipa/ipa-consonants.html
 For example, B and D are closer together than B and F, but not as close as B and P or D and T. 
 
+Once each ([vowel][consonants_av]) chunk is assigned positions in the vowel and consonant space, every length 2 permutation of chunks is compared in terms of proximity in the space and assigned a score and color. We can then set threshold values for how close two vowels or consonants have to be in the vowel or consonant space to count as a rhyme. A rhyme pair object is then created which consists of two chunks, the distance between their respective vowel in the vowel space, and the average distance between the consonants of their consonant groups in the consonant space.
+Sty (https://github.com/feluxe/sty) is then used to highlight each chunk (that participates in a rhyme) with the assigned color and every phone is printed in order to reconstruct the input string in color coded phones. 
+
 # Caveats and future work
 The code currently serves as a proof of concept for measuring and quantifying slant rhymes, and will act as a foundation to build a more robust rhyme scheme detector.
 In its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection. It also simply looks for any two syllables that rhyme, even if 'insignificant' fractions of words (for example about and subliminal are detected just because the first syllable of each rhymes)  - a more sophisticated version which considers syllable counts and stress patterns is planned.
