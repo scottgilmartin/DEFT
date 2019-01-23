@@ -38,7 +38,7 @@ Nas - Halftime
 
 Nas - Halftime
 <p align="center">
-<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2011.41.55.png" alt="alt text" width="60%" height="50%"></p>
+<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2011.47.31.png" alt="alt text" width="60%" height="50%"></p>
 
 Q-Tip - Scenario 
 <p align="center">
