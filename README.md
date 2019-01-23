@@ -53,7 +53,7 @@ when i was young i was a fan of the jackson five"
 
 The above multi-syllabic rhyme in the context of the song.
 
-Below are some examples of more complex rhyming schemes, with their respective input strings.
+Below are some examples of more complex rhyming schemes with varying structure, density and phonetic content, along with their respective input strings.
 
 Q-Tip - Scenario 
 <p align="center">
