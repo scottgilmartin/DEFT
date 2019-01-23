@@ -47,7 +47,7 @@ Nas - Halftime
 Input string:
 
 <p align="center">
-"i used to hustle now all I do is relax and strive ,
+"i used to hustle now all I do is relax and strive
 when i was young i was a fan of the jackson five"
 </p>
 
@@ -63,7 +63,7 @@ Q-Tip - Scenario
 "it's a leader quest mission and we got the goods here ,
 never on the left because my rights my good ear ,
 i could give a damn about a ill subliminal ,
-Stay away from crime so I ain't no criminal ,"
+Stay away from crime so I ain't no criminal"
 </p>
 
 Mike G - Oldie
@@ -71,8 +71,8 @@ Mike G - Oldie
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.14.44.png" alt="alt text" width="60%" height="50%"></p>
 
 <p align="center">
-"and you don't even need to look cause we gleam obscene ,
-in the light ride slow to my yellow diamond shining like ,
+"and you don't even need to look cause we gleam obscene 
+in the light ride slow to my yellow diamond shining like 
 the batman logo over gotham"
 </p>
 
@@ -81,7 +81,7 @@ A song I wrote about an overconfident boxer who dies in the ring.
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.21.45.png" alt="alt text" width="60%" height="50%"></p>
 
 <p align="center">
-"if i cheat i can beat them man i'm destined to defeat them hand ,
+"if i cheat i can beat them man i'm destined to defeat them hand 
 to hand in a ring yeah i'll float and i'll sting"
 </p>
 
@@ -90,7 +90,7 @@ Nas - N.Y. State of mind
 <img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.30.59.png" alt="alt text" width="60%" height="50%"></p>
 
 <p align="center">
-"and be prosperous though we live dangerous ,
+"and be prosperous though we live dangerous 
 cops could just arrest me blaming us we're held like hostages"
 </p>
 
