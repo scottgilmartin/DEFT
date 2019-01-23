@@ -93,14 +93,4 @@ A song I wrote about an overconfident boxer who dies in the ring.
 to hand in a ring yeah i'll float and i'll sting"
 </p>
 
-Nas - N.Y. State of mind
-<p align="center">
-<img src="https://github.com/scottgilmartin/DEFT/blob/master/images/Screen%20Shot%202019-01-23%20at%2000.30.59.png" alt="alt text" width="60%" height="50%"></p>
-
-<p align="center">
-"and be prosperous though we live dangerous 
-cops could just arrest me blaming us we're held like hostages"
-</p>
-
-Also included here is a section of an alliteration scheme highlighter (work in progress.)
 
