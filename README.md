@@ -21,7 +21,7 @@ The idea is to quantify how much a given pair of ([consonants_bv][vowel][consona
 The consonant space is constructed based on the IPA consonant chart which can be found here: https://home.cc.umanitoba.ca/~krussll/phonetics/ipa/ipa-consonants.html
 For example, B and D are closer together than B and F, but not as close as B and P or D and T. 
 
-# Caveats and planned additions
+# Caveats and future work
 The code currently serves as a proof of concept for measuring and quantifying slant rhymes, and will act as a foundation to build a more robust rhyme scheme detector.
 In its current form does not take into account every consonant individually, but rather judges by the "average" consonant of a group. This can lead to false positives and negatives in rhyme and alliteration detection. It also simply looks for any two syllables that rhyme, even if 'insignificant' fractions of words (for example about and subliminal are detected just because the first syllable of each rhymes)  - a more sophisticated version which considers syllable counts and stress patterns is planned.
 In the case where chunk A rhymes with chunk B, chunk B rhymes with chunk C but chunk A does not rhyme with chunk C, one of the rhymes may be assigned an unrepresentative color.
