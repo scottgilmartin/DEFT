@@ -1,5 +1,5 @@
 # What is this?
-Some simple code that can recognizes and quantifies rhymes, slant rhymes and varying degrees of alliteration by 
+Some simple code that recognizes and quantifies rhymes, slant rhymes and varying degrees of alliteration by 
 using the CMU Pronouncing Dictionary (part of the nltk libraries) to convert words to their phonetic components (phones) as
 represented by the ARPAbet symbols found here: http://www.speech.cs.cmu.edu/cgi-bin/cmudict 
 and here: https://en.wikipedia.org/wiki/ARPABET
