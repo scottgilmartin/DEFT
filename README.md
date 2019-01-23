@@ -7,6 +7,8 @@ and here: https://en.wikipedia.org/wiki/ARPABET
 Information about different types of rhymes and various examples can be found here: https://en.wikipedia.org/wiki/Perfect_and_imperfect_rhymes 
 and here: https://www.litcharts.com/literary-devices-and-terms/slant-rhyme
 
+The project is still a work in progress.
+
 # Why?
 To learn about the characteristics of rhymes, and the media which employs them. Potential applications include analysing and generating rhyme schemes automatically, visulization of song structure and phonetic sounds (i.e. simulating synesthesia), measuring the rhyme and alliteration density of a given lyric or poem, and looking at the particular rhyming style of an artist. The same principles can also be applied to study phonetic properties of accents and language itself.
 
