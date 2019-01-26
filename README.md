@@ -12,6 +12,15 @@ The project is still a work in progress, and more features will be added over ti
 # Why?
 To learn about the characteristics of rhymes, and the media that employs them. Potential applications include analysing and generating rhyme schemes automatically, visulization of song structure and phonetic sounds (i.e. simulating synesthesia), measuring the rhyme and alliteration density of a given lyric or poem, and looking at the particular rhyming style of an artist. The same principles can also be applied to study phonetic properties of accents and language itself.
 
+The goal of the project is to answer some of the following questions:
+Why does one wording of a sentence sound better than another, especially in the context of a song or poetry?
+Can we quantify how much a given set of words rhyme in a way that makes sense?
+What are the limits of rhyming? What roles to vowels and consonants play?
+Can we tell the genre or artist of a song by the phonetic patterns alone? Rhyme density, alliteration etc.
+Can we recognise rhyme schemes, including multi-syllabic and slant rhymes, automatically?
+Can we guess the accent of an artist by examining the rhymes they use?
+
+
 # How does it work?
 A short summary - an input string is converted into it's component ARPAbet phones, and each phone is assigned a position in a vowel (shown below) or consonant space. The distances between each phone in the original string are compared to a specified threshold value in order to determine whether or not a particular set of phones rhyme or alliterate. Rhyming phone sets (called chunks here) are then assigned a color, allowing the two rhyming chunks to be highlighted accordingly and visually associated in the final reconstruction of the word.
 
