@@ -12,7 +12,7 @@ import nltk
 import re #strip numbers from string using reg expression
 from sty import bg #used to print rhyme schemes with color highlights
 
-with open('/Users/scottgilmartin/Desktop/sample.txt') as myfile:
+with open('/Address/sample.txt') as myfile:
  w = myfile.read().split()
 
 entries = nltk.corpus.cmudict.entries()
